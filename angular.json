@@ -93,7 +93,7 @@
           },
           "configurations": {
             "test": {
-              "codeCoverage": true
+              "clearMocks": true
             }
           }
         }
